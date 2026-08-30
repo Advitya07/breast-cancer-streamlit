@@ -280,7 +280,7 @@ breast-cancer-streamlit/
 Clone the repository:
 
 ``` bash
-git clone https://github.com/Aditya07/breast-cancer-streamlit.git
+git clone https://github.com/Advitya07/breast-cancer-streamlit.git
 cd breast-cancer-streamlit
 ```
 
