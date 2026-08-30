@@ -10,7 +10,7 @@ hyperparameter tuning** on Logistic Regression and K-Nearest Neighbors
 ## 🚀 Live Demo
 
 👉 **[Try the deployed Streamlit
-application](PASTE_YOUR_STREAMLIT_LINK_HERE)**
+application]((https://breast-cancer-app-o26uhfvbdzyftwa8grmtkb.streamlit.app/))**
 
 ------------------------------------------------------------------------
 
