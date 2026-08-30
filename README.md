@@ -8,9 +8,7 @@ hyperparameter tuning** on Logistic Regression and K-Nearest Neighbors
 (KNN), followed by deployment of the final model using Streamlit.
 
 ## 🚀 Live Demo
-
-👉 **[Try the deployed Streamlit
-application]((https://breast-cancer-app-o26uhfvbdzyftwa8grmtkb.streamlit.app/))**
+https://breast-cancer-app-o26uhfvbdzyftwa8grmtkb.streamlit.app/
 
 ------------------------------------------------------------------------
 
